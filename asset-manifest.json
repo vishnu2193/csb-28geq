@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vishnu2193.github.io/csb-28geq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vishnu2193.github.io/csb-28geq/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://vishnu2193.github.io/csb-28geq/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://vishnu2193.github.io/csb-28geq/static/js/runtime-main.19739bb9.js",
+    "runtime-main.js.map": "https://vishnu2193.github.io/csb-28geq/static/js/runtime-main.19739bb9.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://vishnu2193.github.io/csb-28geq/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://vishnu2193.github.io/csb-28geq/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://vishnu2193.github.io/csb-28geq/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vishnu2193.github.io/csb-28geq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://vishnu2193.github.io/csb-28geq/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19739bb9.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
